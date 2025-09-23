@@ -38,7 +38,7 @@
              </div>
             </div>
              </div>
-		<div> about us </div>
+
     </section>
 
 
